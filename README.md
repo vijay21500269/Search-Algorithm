@@ -126,7 +126,7 @@ else:
 ```
 ## Output
 ![output1](https://github.com/vijay21500269/Search-Algorithm/blob/main/Screenshot%20(29).png)
-![output2]()
+![output2](https://github.com/vijay21500269/Search-Algorithm/blob/main/Screenshot%20(30).png)
 ![output3]()
 
 
