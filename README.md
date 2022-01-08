@@ -124,7 +124,11 @@ else:
 
 
 ```
-## Sample Input and Output
+##Output
+![output1]()
+![output2]()
+![output3]()
+
 
 
 
